@@ -74,6 +74,10 @@
   <img src="https://streak-stats.demolab.com?user=sambhavjain10&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
 </p>
 
+<p align="center"
+<iframe src="https://streak-stats.demolab.com?user=sambhavjain10&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
+</p>
+
 ---
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sambhavjain10&color=blue&style=flat-square" alt="Profile views"/>
