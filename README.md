@@ -69,10 +69,7 @@
 ---
 
 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?user=sambhavjain10&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sambhavjain10&layout=compact&hide_border=true&theme=default&langs_count=6" alt="Top Languages" height="165"/>
-</p>
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=sambhavjain10&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
 </p>
